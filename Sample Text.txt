@@ -1,0 +1,2 @@
+Suppose there are 2 classes which implement a same interface and the methods from that interface. If I call a method directly from the interface, what is what decides which implementation will be returned (from first or second class) ?
+
